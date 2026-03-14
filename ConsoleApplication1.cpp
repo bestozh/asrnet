@@ -5,8 +5,8 @@
 
 int main()
 {
-    int res = 10;
-
+    //int res = 10;
+    int res = 20;
     std::cout << res <<"Hello World!\n";
 }
 
