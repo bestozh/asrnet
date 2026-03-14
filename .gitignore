@@ -1,0 +1,9 @@
+#pragma once
+.vs/
+ .gitignore
+ConsoleA.30d48899/
+ConsoleApplication1.slnx
+ConsoleApplication1.vcxproj
+ConsoleApplication1.vcxproj.filters
+ConsoleApplication1.vcxproj.user
+x64/
