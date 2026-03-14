@@ -6,7 +6,9 @@
 int main()
 {
     //int res = 10;
-    int res = 20;
+    //int res = 20;
+    int res = 40;
+
     std::cout << res <<"Hello World!\n";
 }
 
